@@ -1,0 +1,12 @@
+name: RealTimeSync
+main: cf.gamesukimanirs.realtimesync.Main
+version: 1.0.0
+author: gamesukimanIRS
+api: ["1.0.0"]
+commands:
+  rton:
+    description: 現実時間とゲーム内時間の同期をオンにします。(OP)
+    usage: "/rton"
+  rtoff:
+    description: 現実時間とゲーム内時間の同期をオフにします。(OP)
+    usage: "/rtoff"
